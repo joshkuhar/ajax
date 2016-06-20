@@ -1,0 +1,9 @@
+.container {
+	width:1170px;
+	margin:0 auto;
+}
+
+iframe {
+	width:50%;
+	height:500px;
+}
