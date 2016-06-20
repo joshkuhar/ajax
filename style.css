@@ -1,9 +1,22 @@
 .container {
 	width:1170px;
 	margin:0 auto;
+	text-align: center;
+}
+form {
+	margin-top: 2em;
 }
 
 iframe {
 	width:50%;
 	height:500px;
+}
+
+h1 {
+	font-size: 1.5em;
+}
+
+p {
+	width: 50%;
+	margin: 0 auto;
 }

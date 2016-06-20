@@ -4,6 +4,7 @@ $('#search-term').submit(function(event) {
     event.preventDefault();
     var searchTerm = $('#query').val();
     getRequest(searchTerm);
+    $('#query').val('');
 });
 
 function getRequest(searchTerm) {
